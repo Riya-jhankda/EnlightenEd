@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EnlightenEd</string>
+    <string name="create_account">create_account</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="confirm_password">confirm_password</string>
+    <string name="or">or</string>
+    <string name="sign_in">sign_in</string>
+    <string name="you_are_signed_in">You are signed in</string>
+    <string name="sign_out">sign out</string>
+</resources>
